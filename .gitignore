@@ -1,0 +1,4 @@
+main
+.vscode
+.idea
+*_test.c
